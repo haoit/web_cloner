@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# Tool outputs
+cloned_site/
+*_cloned/
+*.log
+
+# System
+Thumbs.db
+Desktop.ini
